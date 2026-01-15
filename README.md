@@ -1,5 +1,16 @@
-I am learning Python, Artificial Intelligence, and Machine Learning.
-This repository contains my daily practice codes and projects.
+# Python AI & ML Practice
 
-Tools: Python, NumPy, Pandas, Scikit-learn
-Goal: Become job-ready in AI/ML.
+I am learning Python, Artificial Intelligence, and Machine Learning.
+
+## What this repository contains
+- Daily Python practice codes
+- AI & Machine Learning mini projects
+
+## Tools
+- Python
+- NumPy
+- Pandas
+- Scikit-learn
+
+## Goal
+Become job-ready in AI/ML.
